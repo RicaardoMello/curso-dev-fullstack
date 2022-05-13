@@ -1,0 +1,18 @@
+body {
+    background: rgba(142, 155, 102, 0.842);
+}
+
+p {
+    color: #2b4521;
+}
+
+#titulo-principal{
+    color: #311a05;
+}
+
+.foto {
+    width: 150px;
+    border: 2px groove rgb(47, 68, 4);
+    border-radius: 80px ;
+    margin: 50px 50px 50px 50px ; 
+}

@@ -1,0 +1,32 @@
+body {
+    background: rgba(142, 155, 102, 0.842);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+p {
+    color: #2b4521;
+}
+
+#titulo-principal{
+    color: #311a05;
+    letter-spacing: 2px;
+}
+
+.foto {
+    width: 150px;
+    border: 2px groove rgb(47, 68, 4);
+    border-radius: 80px ;
+    margin: 50px 50px 50px 50px ; 
+    box-shadow: 0px 0px 12px rgb(47, 68, 4);
+}
+h1 {
+    margin-bottom: 0px;
+}
+h2 {
+    margin-top: 0px;
+    font-style: italic;
+    color: rgb(39, 39, 30);
+    font-weight: 200;
+    letter-spacing: -1px;
+}
